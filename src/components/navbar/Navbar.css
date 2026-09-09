@@ -1,0 +1,13 @@
+.navbar-container {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.search-input {
+  background-color: #F0F0F0;
+}
+
+.search-input:focus {
+  background-color: #FFFFFF;
+  border-color: #000000;
+}
+

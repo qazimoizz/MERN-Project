@@ -1,0 +1,12 @@
+.hero-section {
+  background-color: #F2F0F1;
+}
+
+.hero-title {
+  line-height: 1.05;
+}
+
+.hero-stat-border {
+  border-color: rgba(0, 0, 0, 0.1);
+}
+

@@ -1,0 +1,10 @@
+.top-banner {
+  background-color: #000000;
+  color: #FFFFFF;
+}
+
+.top-banner-link {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+

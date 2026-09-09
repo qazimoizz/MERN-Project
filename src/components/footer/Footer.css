@@ -1,0 +1,22 @@
+.footer-container {
+  background-color: #F0F0F0;
+  border-top: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.social-icon-btn {
+  background-color: #FFFFFF;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  transition: all 0.2s ease;
+}
+
+.social-icon-btn:hover {
+  background-color: #000000;
+  color: #FFFFFF;
+}
+
+.payment-badge {
+  background-color: #FFFFFF;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 0.375rem;
+}
+

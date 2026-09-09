@@ -1,0 +1,29 @@
+.admin-sidebar {
+  background-color: #000000;
+  color: #FFFFFF;
+}
+
+.admin-nav-item {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.75rem 1rem;
+  border-radius: 0.75rem;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: #9CA3AF;
+  transition: all 0.2s ease;
+}
+
+.admin-nav-item:hover,
+.admin-nav-item.active {
+  background-color: #1F2937;
+  color: #FFFFFF;
+}
+
+.stat-card {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 1.25rem;
+  background-color: #FFFFFF;
+}
+

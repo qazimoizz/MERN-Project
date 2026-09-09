@@ -1,0 +1,13 @@
+.product-list-btn {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.product-list-btn:hover {
+  background-color: #000000;
+  color: #FFFFFF;
+}
+
+.section-divider {
+  border-color: rgba(0, 0, 0, 0.1);
+}
+

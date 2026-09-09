@@ -1,0 +1,36 @@
+.detail-img-thumb {
+  background-color: #F0EEED;
+  border-radius: 1.25rem;
+  cursor: pointer;
+  border: 2px solid transparent;
+  transition: all 0.2s ease;
+}
+
+.detail-img-thumb.active {
+  border-color: #000000;
+}
+
+.detail-img-main {
+  background-color: #F0EEED;
+  border-radius: 1.25rem;
+}
+
+.qty-pill {
+  background-color: #F0F0F0;
+  border-radius: 9999px;
+}
+
+.tab-btn {
+  padding-bottom: 1rem;
+  border-bottom: 2px solid transparent;
+  color: rgba(0, 0, 0, 0.6);
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+.tab-btn.active {
+  border-color: #000000;
+  color: #000000;
+  font-weight: 700;
+}
+
